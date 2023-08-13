@@ -5,5 +5,5 @@ Functional Collections and  Lock Free DSTM -- Dynamic Software Transactional Mem
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/danlentz/dstm-collections.git |
 | commit  | 02a67b8                                              |
-| systems | (collex)                                             |
+| systems | collex                                               |
 |---------+------------------------------------------------------|
